@@ -1,3 +1,6 @@
+
+--[Olist] (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 ------------------------------------------ Case 1 : Sipariş Analizi / Order Analysis------------------------------------------
 ------------------------------------------ Question 1 ------------------------------------------
 
